@@ -12,3 +12,21 @@
 .button-container:active{
   background: rgb(138, 13, 13);
 }
+
+/* .Button{
+  border: solid;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding: 10px;
+  background: #ffffff;
+  word-break: break-word;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.Button:hover{
+  background: #abc6ff;
+  transition-duration: 200ms;
+} */

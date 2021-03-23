@@ -15,7 +15,7 @@ class Form extends React.Component{
   handleChange(event){
     const field = event.target.name;
     this.setState({
-      [field]: this.state.value
+      [field]: event.target.value
     })
   }
 
@@ -31,7 +31,7 @@ class Form extends React.Component{
       this.props.onSubmit(body);
     }
 
-    this.setState({bdoy: ''})
+    this.setState({body: ''})
   }
 
   render(){
