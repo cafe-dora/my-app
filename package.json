@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "https://cafe-dora.github.io/react-practice",
+  "homepage": "https://cafe-dora.github.io/my-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
